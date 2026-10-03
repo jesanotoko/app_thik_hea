@@ -1,1 +1,1 @@
-{"name":"Local: hello","url":"f:\\jesan\\hello.cpp","tests":[{"id":1790854556246,"input":"1 \n4\n8\n","output":"21\n4\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\jesan\\hello.cpp","group":"local","local":true}
+{"name":"Local: hello","url":"f:\\jesan\\hello.cpp","tests":[{"id":1790854556246,"input":"3\n100000 100000\n12 24\n747794 238336\n","output":"21\n4\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\jesan\\hello.cpp","group":"local","local":true}
